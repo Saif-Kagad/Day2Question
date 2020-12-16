@@ -1,0 +1,7 @@
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe.config
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\bin\Debug\PrimeNo.exe
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\bin\Debug\PrimeNo.pdb
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csprojAssemblyReference.cache
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\obj\Debug\PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\obj\Debug\PrimeNo.exe
+C:\Users\SAIF\Desktop\LTI Training\Github\Day2 Question\PrimeNo\PrimeNo\obj\Debug\PrimeNo.pdb
